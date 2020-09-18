@@ -1,0 +1,21 @@
+body{
+    background-color: blue;
+    color: cadetblue;
+}
+h1{
+background-color: coral;
+color: darkgreen;
+margin-bottom:0 ;
+}
+nav{
+    background-color: darkseagreen;
+}
+h2{
+    color: dimgray;
+}
+resort{
+    color: gray;
+}
+#contact{
+    font-size: 90;
+}
