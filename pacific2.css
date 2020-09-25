@@ -1,0 +1,81 @@
+body{
+    background-color: lavender;
+    color: ifis;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:linear-gradient(to bottom,#ffffff,#90c7e3);
+    background-repeat: no-repeat;
+}
+
+#wrapper{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: red;
+    min-width: 960px;
+    min-width: 2048;
+    box-shadow: 3px 3px 3px #333333;
+}
+
+header{
+    background-color: salmon;
+    color: yellowgreen;
+    background-image: url(images/sunset.jpg);
+    background-position-x: right;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 60px;
+    padding-top: 15px;
+}
+h1{
+    margin-bottom: 0;
+    margin-top: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav{
+    background-color: lightblue;
+    font-weight: bold;
+    text-align: center;
+    padding-left: 10px;
+}
+nav a{
+    text-decoration: lightskyblue;
+}
+main{
+    padding:1px,20px,20px,20px;
+    display: block;
+}
+h2{
+    color: lightsteelblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow:1px 1px 1px mediumpurple;
+}
+h3{
+    color: navy;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+dt{
+    color: olivedrab;
+}
+.resort{
+    color: paleturquoise;
+    font-weight: bold;
+}
+ul{
+    list-style: url(images/marker.gif);
+}
+#contact{
+    font-size: 90%;
+}
+footer{
+    font-size: 75%;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 20px;
+}
+#homehero{
+    background-image: url(images/coasthero.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
